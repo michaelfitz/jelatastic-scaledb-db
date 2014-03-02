@@ -1,17 +1,17 @@
-Name: jelasticbasic
-Cartridge-Short-Name: JELASTICBASIC
-Display-Name: JELASTICBASIC
+Name: jelasticscaledb
+Cartridge-Short-Name: JELASTICSCALEDB
+Display-Name: JELASTICSCALEDB
 Description: "Jelastic basic webserver cartrodge"
 Version: '1.0'
 License: No Licence
 License-Url: 
 Vendor: Jelastic
 Cartridge-Version: 1.0
-Cartridge-Vendor: jelasticbasic
+Cartridge-Vendor: jelasticscaledb
 Categories:
   - service
   - embedded
-Source-Url: https://github.com/ihorman/openshift-jelastic-basic-cartridge.git
+Source-Url: https://github.com/michaelfitz/jelatastic-scaledb-db.git
 Website: http://jelastic.com/
 Help-Topics:
   "Developer Center": https://jelastic.com
